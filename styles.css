@@ -1,0 +1,27 @@
+body {
+    background-color: #BCEAD5;
+}
+
+hr {
+    background-color: #BCEAD5;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h1 {
+    color:#344D67;
+}
+h3 {
+    color:#344D67;
+}
+.bhavani {
+    background-color: rgba(0, 0, 0, 0.539);
+}
+.round{
+    border-radius: 5%;
+}
+img:hover{
+    background-color:rgba(0, 0, 0, 0.86);
+}
